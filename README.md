@@ -44,11 +44,7 @@ Project Structure and Reports
     │
     ├── data           <- Datasets used and collected for this project.
 
-Author
-@Iheoma_Nwuzor
-
-Contact me!
-If you have any job position, questions, suggestions, or just want to connect or say hello, you can reach out to me at email, linked in
-LinkedIn
+## Conclusion
+This project transformed raw data into actionable insights using SQL. By combining exploratory data analysis, predictive modelling, and visualization, the approach defined key factors driving employee attrition, satisfaction, and performance. The models highlight that elements such as compensation trends, training effectiveness, and career progression are strong predictors of retention outcomes. The interpretable outputs and dashboard provide HR decision-makers with clear, data-driven recommendations to proactively address workforce challenges. The framework offers organisations a scalable and practical approach to improving employee engagement and retention.
 
 
