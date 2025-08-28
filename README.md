@@ -1,4 +1,5 @@
 # Employee-Retention-Analytics-Data-Driven-Insights-for-HR-Decision-Making
+## Overview
 Dataz Corporation is a multinational technology company specialising in software development, research, and innovation. With a large workforce spread across multiple departments, the company collects extensive HR data to inform data-driven decisions for improving employee retention. However, Dataz Corporation faces challenges in understanding the key factors influencing employee attrition, job satisfaction, and performance. The HR department needs a data-driven approach to analyze employee records, training impact, and compensation trends. 
 
 ## Aim
